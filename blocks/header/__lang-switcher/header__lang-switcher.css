@@ -1,0 +1,6 @@
+.header__lang-switcher {
+  width: fit-content;
+  display: grid;
+  grid-auto-flow: column;
+  align-items: flex-end;
+}
