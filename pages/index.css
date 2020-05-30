@@ -2,10 +2,15 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/content/lead/lead.css);
-@import url(../blocks/content/intro/intro.css);
-@import url(../blocks/content/photo-grid/photo-grid.css);
-@import url(../blocks/content/places/places.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
-@import url(../blocks/content/cover/cover.css);
+@import url(../blocks/website/website.css);
+@import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
+
+.q {
+  border: 1px red solid;
+}
