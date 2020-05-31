@@ -10,7 +10,3 @@
 @import url(../blocks/website/website.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/footer/footer.css);
-
-.q {
-  border: 1px red solid;
-}
