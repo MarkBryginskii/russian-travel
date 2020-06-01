@@ -20,8 +20,8 @@
  * Remove the margin in all browsers.
  */
 
-body, p{
-  margin: 0px;
+body {
+  margin: 0;
 }
 
 /**
@@ -39,11 +39,7 @@ main {
 
 h1 {
   font-size: 2em;
-  margin: 0px;
-}
-
-h2, h3, h4, h5 {
-  margin: 0px;
+  margin: 0.67em 0;
 }
 
 /* Grouping content

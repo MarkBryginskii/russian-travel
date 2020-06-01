@@ -1,0 +1,5 @@
+.place__description {
+  display: grid;
+  grid-template-rows: repeat(2, minmax(auto-fit, 1fr));
+  row-gap: 24px;
+}
